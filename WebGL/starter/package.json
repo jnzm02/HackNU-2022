@@ -10,7 +10,8 @@
   "license": "Apache 2.0",
   "dependencies": {
     "@googlemaps/js-api-loader": "^1.13.9",
-    "three": "^0.138.3"
+    "three": "^0.138.3",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "webpack": "^5.70.0",
